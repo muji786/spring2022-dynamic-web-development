@@ -1,1 +1,1 @@
-# spring2022-dynamic-web-development
+# Dynamic Web Development - Spring 2022
