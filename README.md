@@ -36,10 +36,13 @@ Class will culminate final projects. You are expected to push your abilities to 
 ## BOOKS/WEBSITES
 No books are required for this course but here is a list of other resources that might come in handy:
 
-HTML & CSS Book [http://www.htmlandcssbook.com/]
-JavaScript and JQuery Book [http://www.javascriptbook.com/]
-The Node Beginner Book [https://www.nodebeginner.org/]
-Lynda.com/LinkedIn Learning (Free access through NYU) [http://www.nyu.edu/lynda]
+* HTML & CSS Book [http://www.htmlandcssbook.com/]
+
+* JavaScript and JQuery Book [http://www.javascriptbook.com/]
+
+* The Node Beginner Book [https://www.nodebeginner.org/]
+
+* Lynda.com Learning (Free access through NYU) [http://www.nyu.edu/lynda]
 
 ### STATEMENT OF ACADEMIC INTEGRITY
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
