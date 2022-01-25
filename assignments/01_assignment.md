@@ -2,8 +2,6 @@
 
 ## Briefing
 
-![Assignment 1 demo - net art with rainbows and gif](/assets/assignment-01__demo.gif)
-
 Your task this week is to code a "simple" website using HTML and CSS. The goal of this assignment is to begin your practice of the web development and deployment process. 
 
 Your focus should be to get into the habit and practice of integrating git tracking into your workflow and exploring as much of the features of HTML as possible, displaying your understanding of the DOM tree and creative uses of the CSS knowledge you have so far. 
