@@ -44,6 +44,11 @@ No books are required for this course but here is a list of other resources that
 
 * Lynda.com Learning (Free access through NYU) [http://www.nyu.edu/lynda]
 
+## CODE OF CONDUCT
+Please read and review the ITP/IMA Code of Conduct[https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md]. The Code of Conduct will be reviewed and discussed as part of the course introduction.
+
+The ITP/IMA Code of Conduct is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+
 ### STATEMENT OF ACADEMIC INTEGRITY
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
 
