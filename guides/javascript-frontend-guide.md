@@ -557,7 +557,7 @@ console.log(myFirstStudent); // {name: 'Winnie', role: 'student'}
 
 ### Other Helpful Array Functions
 
-As you can see there are a zillion array functions and tons we didn't cover. For a more comprehensive list, see: [The Front-end Roadmap -- JavaScript Array Methods](https://github.com/itp-dwd/2020-spring/wiki/Front-end-Roadmap)
+As you can see there are a zillion array functions and tons we didn't cover. For a more comprehensive list, see: [The Front-end Roadmap -- JavaScript Array Methods](https://github.com/muji786/spring2022-dynamic-web-development//wiki/Front-end-Roadmap)
 
 #### `.fill()`
 > fills an array with a given value
