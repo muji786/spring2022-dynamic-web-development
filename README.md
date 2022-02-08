@@ -1,4 +1,5 @@
-# Dynamic Web Development - ITPG-GT.2577.1- Spring 2022
+# Dynamic Web Development - ITPG-GT.2577.1
+## Spring 2022
 
 Instructors: Ahmad Arshad
 Email: ahmad.arshad@nyu.edu
