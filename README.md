@@ -11,9 +11,9 @@ This online synchronous course introduces the fundamentals of building "full sta
 ## GRADES
 Grades will be determined according to the following breakdown:
 
-Regular Assignments : 60%
-Final Project : 30%
-Attendance + Participation : 10%
+* Final Project : 80%
+* Attendance + Participation : 20%
+
 Please see ITP's statement on Pass/Fail which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
 ## GIT REPOSITORY
@@ -21,17 +21,14 @@ It is expected that everyone in the class create and maintain a git repository t
 
 Be sure to enter your name, preferred email address, and the URL on the class site
 
-## ASSIGNMENTS
-We will have assignments that are relevant to material from the previous class. These assignments are required and you should post them to the class site on or before the due date. This is 60% of your grade.
-
 ## ATTENDANCE
 As this class is primarliy face to face, attendance is required. 
 
 ## CLASS PARTICIPATION
-You are expected to participate in class and give feedback to other students and participate with their projects. Class Participation will count towars 10% of the grade
+You are expected to participate in class and give feedback to other students and participate with their projects. Class Participation will count towars 20% of the grade
 
 ## FINAL PROJECTS
-Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 30% of your grade.
+Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 80% of your grade.
 
 ## BOOKS/WEBSITES
 No books are required for this course but here is a list of other resources that might come in handy:
