@@ -95,11 +95,6 @@ Some examples of nice readme:
 ## Submission
 
 **Details:**
-* Due Date: week 2 - Feb 1
-* Your assignment must be turned in BEFORE midnight on Sunday, the day before class.
-
-**📨All Assignments should be added below, Name : Assignment Link:**
-
 
 
 ## Helpful Tips & References:
