@@ -104,7 +104,3 @@ Consider structuring your project directory like so:
     * inspiration, process documentation, struggles, references, and questions, like your ITP blog
     * and how you deployed your work to [Glitch.com](https://glitch.com).
   * You may use this [README template](/templates/readme-template.md) to structure your README documentation and blog post
-
-## Submission
-
-**Details:**

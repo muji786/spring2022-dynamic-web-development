@@ -92,11 +92,6 @@ Some examples of nice readme:
 #### Requirement 2.3: Deployed publicly to Glitch
 * Your application must be publicly accessible on [Glitch.com](https://glitch.com). For more information on deploying to glitch via a remote Github repo, see: [Glitch Guide](../guides/glitch.md).
 
-## Submission
-
-**Details:**
-
-
 ## Helpful Tips & References:
 
 * [Your First Website Guide](../guides/your-first-website-guide.md)
